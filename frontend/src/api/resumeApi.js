@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE = '/api'
+const BASE = 'https://resume-portfolio-g2hy.onrender.com'
 
 export async function parseResume(file, theme = "Modern UI") {
   const form = new FormData()
