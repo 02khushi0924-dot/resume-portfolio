@@ -1,0 +1,15 @@
+# env files
+.env
+.env.*
+backend/.env
+
+# python
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+dist/
+
+# IDE
+.vscode/
